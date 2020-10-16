@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="uk.org.bitservices.batttemp.ShowTemp" >
+
+    <item android:id="@+id/mnuStart"
+        android:icon="@drawable/start"
+        android:showAsAction="ifRoom"
+        android:title="@string/app_label_service_start" />
+    <item android:id="@+id/mnuCloseAll"
+        android:icon="@drawable/closeall"
+        android:showAsAction="ifRoom"
+        android:title="@string/app_label_service_stop" />
+
+</menu>

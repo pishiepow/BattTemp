@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BattTemp</string>
+    <string name="app_label">Battery Temperature</string><string name="action_settings">Settings</string>
+	<string name="app_author">by Lerinc Igor</string>
+	<string name="app_author_string">by Lerinc Igor</string>
+	<string name="act_label_batttemp">Battery Temperature</string>
+
+	<string name="app_label_service_start">Start Service</string>
+	<string name="app_label_service_stop">Stop Service</string>
+</resources>
